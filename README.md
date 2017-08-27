@@ -2,6 +2,8 @@
 
 # chayns+ES2015 Template
 
+Hello!
+
 This template will show you the basic project structure for building your own custom Tapps with `ES2015` and the `chayns`-Framework.
 
 ### Requirements
